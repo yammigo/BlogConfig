@@ -4,16 +4,16 @@
 
 # Site
 title: "言知"
-subtitle: '善言求知'
+subtitle: " "
 description: ''
 keywords:
-author: John Doe
+author: 'fanjiantao'
 language: zh-CN
-timezone: ''
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: location
+url: https://yammigo.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
